@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mPackaging /Users/paulofernandes/Developer/wiki_play/mineracao_wiki/target/scala-2.11/mineracao_wiki_2.11-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	logback.xml[0m
+[0m[[0mdebug[0m] [0m	  /Users/paulofernandes/Developer/wiki_play/mineracao_wiki/conf/logback.xml[0m
+[0m[[0mdebug[0m] [0m	controllers/Application.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/paulofernandes/Developer/wiki_play/mineracao_wiki/app/controllers/Application.java[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/paulofernandes/Developer/wiki_play/mineracao_wiki/conf/application.conf[0m
+[0m[[0mdebug[0m] [0m	util/Indexer.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/paulofernandes/Developer/wiki_play/mineracao_wiki/app/util/Indexer.java[0m
+[0m[[0mdebug[0m] [0m	util/Searcher.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/paulofernandes/Developer/wiki_play/mineracao_wiki/app/util/Searcher.java[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  /Users/paulofernandes/Developer/wiki_play/mineracao_wiki/conf/routes[0m
+[0m[[0mdebug[0m] [0m	models/Query.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/paulofernandes/Developer/wiki_play/mineracao_wiki/app/models/Query.java[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

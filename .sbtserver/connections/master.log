@@ -1,0 +1,43 @@
+New log file opened at Wed Sep 30 00:30:16 BRT 2015 by 1364@I
+Taking next connection to: 49755
+New client attempting to connect on port: 49756-49755
+  Address = /192.168.25.52:49755
+This client on port 49756 has uuid 7fd04a78-293f-4cc4-af0d-3cfcc079dcdc configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-7fd04a78-293f-4cc4-af0d-3cfcc079dcdc
+Taking next connection to: 49755
+New client attempting to connect on port: 49757-49755
+  Address = /192.168.25.52:49755
+Handshake exception on socket: 49757
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 49755
+New client attempting to connect on port: 49758-49755
+  Address = /192.168.25.52:49755
+This client on port 49758 has uuid 83961430-9995-4c10-b744-3d6a69561e44 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-7fd04a78-293f-4cc4-af0d-3cfcc079dcdc, activator-83961430-9995-4c10-b744-3d6a69561e44
+Taking next connection to: 49755
+New client attempting to connect on port: 49766-49755
+  Address = /192.168.25.52:49755
+Handshake exception on socket: 49766
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 49755
+New client attempting to connect on port: 49767-49755
+  Address = /192.168.25.52:49755
+This client on port 49767 has uuid bdccc252-a0b1-414b-ae4f-cdd6a9c8da98 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: activator-83961430-9995-4c10-b744-3d6a69561e44, play-fork-run-bdccc252-a0b1-414b-ae4f-cdd6a9c8da98
+Taking next connection to: 49755
